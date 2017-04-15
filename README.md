@@ -1,2 +1,2 @@
-# staycool
+# staycool.github.io
 Whatever
